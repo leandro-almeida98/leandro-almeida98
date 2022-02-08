@@ -7,7 +7,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
  <img align="right" width="300" height="200" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" />
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software. <br/>
 - 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.<br/>
-- 💼 &nbsp; Trabalhando como Desenvolvedor FullStack Júnior na SGN Sistemas<br/>
+- 💼 &nbsp; Trabalhando como Analista de Sistemas Jr na ACP Group<br/>
 - 🌱 &nbsp; Aprendendo mais sobre Javascript, React Native.<br/>
  
 <br/><br/><br/>
